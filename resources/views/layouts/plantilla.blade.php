@@ -10,6 +10,7 @@
 <body>
 <nav style="background:-webkit-linear-gradient(left top,#E430FD  ,#45B39D);" class="navbar navbar-expand-lg navbar-dark   shadow-sm p-2 rounded-bottom mb-5">
     <a class="navbar-brand" href="{{route('welcome')}}"  >  Proyecto S.O Grupo#1    </a>
+
     <button class="navbar-toggler" type="button" data-tog   gle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span  class="navbar-toggler-icon"></span>
     </button>

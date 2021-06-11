@@ -2,11 +2,15 @@
 @extends('layouts.plantilla')
 
 @section('content')
+
         <div class="text-secondary">
             <div class="row">
-                <div class="col-md-12 d-flex justify-content-center text-blue text-uppercase">
+
+                <div class="col-md-11 d-flex justify-content-center text-blue text-uppercase">
                     <h1>
+                        <img src="https://www.kali.org/images/kali-dragon-icon.svg"  width="200" height="300">
                         Características de Kali Linux
+
                     </h1>
                 </div>
             </div>

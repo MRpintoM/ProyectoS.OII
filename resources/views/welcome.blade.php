@@ -15,7 +15,7 @@
     <style>
         html, body {
             background-color: #fff;
-            color: #636b6f;
+            color: cornflowerblue;
             font-family: 'Nunito', sans-serif;
             font-weight: 200;
             height: 100vh;
@@ -66,12 +66,15 @@
     </style>
 </head>
 <body>
-<div class="flex-center position-ref full-height">
+<div class="flex-center position-ref ">
 
 
     <div class="content">
+        <img src="https://www.kali.org//images/kali-logo.svg" width="300" height="300">
+
         <div class="title m-b-md">
              Sistemas Operativos II
+
         </div>
 
         <div class="links">
@@ -79,12 +82,14 @@
             <a href={{route('Ventajas')}}>Ventajas y Desventajas</a>
             <a href="https://www.kali.org/docs/">Información Adicional</a>
             <a href="https://drive.google.com/drive/u/1/folders/1qq-mES_td1CHDyohnjWo74jIRIWZZ_YO">Documentación</a>
-
-
+            <a href="https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Instances:" > <img src="https://assets.ubuntu.com/v1/83ff4203-awshp-strip-customers.png" width="100" height="100"></a>
 
         </div>
     </div>
+
 </div>
+
+
 </body>
 </html>
 
